@@ -1,0 +1,1 @@
+I just learned a great new way to make a text file .... exactly where I wanted that file.  Meaning inside a specific folder.  Just right click new, choose text file, give a name, <enger> to open that new file, and then type away.
